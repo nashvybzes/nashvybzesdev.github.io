@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    border: none;
+    box-sizing: border-box;
+}
+body{
+    background-color: orchid;
+    height: 100vh;
+    margin: 0;
+    display: grid;
+    text-align: center;
+    min-width: 100vh;
+}
